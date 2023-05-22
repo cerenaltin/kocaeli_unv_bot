@@ -1,1 +1,1 @@
-# kocaeli_unv_bot
+# Kocaeli Üniversitesi Yardım Botu
